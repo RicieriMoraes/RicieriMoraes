@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=4A90E2&reversal=false&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0002&reversal=false&fontColor=FB0A26&animation=fadeIn" width="100%"/>
 
 <!-- Título e Saudação -->
 <h1 align="center">
@@ -99,4 +99,4 @@
 <br>
 
 <!-- Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=4A90E2&text=Obrigado%20por%20visitar!&reversal=false&fontColor=4A90E2&animation=fadeIn&fontSize=30&fontAlignY=15&fontAlign=50&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=FF0002&text=Obrigado%20por%20visitar!&reversal=false&fontColor=4A90E2&animation=fadeIn&fontSize=30&fontAlignY=15&fontAlign=50&section=footer" width="100%"/>
