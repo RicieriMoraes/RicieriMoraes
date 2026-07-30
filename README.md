@@ -91,8 +91,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=AdeniltonR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <br><br>
+  <!--  <img src="https://streak-stats.demolab.com?user=AdeniltonR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <br><br> -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicieriMoraes&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
