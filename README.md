@@ -5,13 +5,8 @@
 <h1 align="center">
     <img width="40" src="https://simpleicons.vercel.app/github/4A90E2" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=4A90E2&width=300&height=40&duration=5000&lines=Bem+vindo!;" alt="Typing Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=4A90E2&width=300&height=40&duration=5000&lines=Eu+sou+Ricieri+Juan;Engenheiro+Eletricista" alt="Typing Greeting" />
 </h1>
-
-<!-- Apresentação -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, sou Ricieri Juan
-</h3>
 
 <p align="center">
   Desenvolvedor e projetista em <b>eletrônica, hardware, embarcados, instalações elétricas, fotovoltaico, automação industrial e perícias</b>.
