@@ -11,7 +11,7 @@
 <p align="center">
   Desenvolvedor e projetista em <b>eletrônica, hardware, embarcados, instalações elétricas, fotovoltaico, automação industrial e perícias</b>.
   <br>
-  Tenho experiência prática com desenvolvimento de produtos, homologações e certificações, incluindo abordagens de EMC.
+  Experiência prática com desenvolvimento de produtos, homologações e certificações, incluindo abordagens de EMC.
 </p>
 
 <!-- Contatos -->
@@ -42,10 +42,6 @@
     <br>
     <img height="30" src="https://img.shields.io/badge/T%C3%A9cnico%20em%20Eletroeletrônica-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white">
     <img height="30" src="https://img.shields.io/badge/T%C3%A9cnico%20em%20Desenvolvimento%20de%20Sistemas-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white">
-   <!--  <br><br>
-   <b>Cursando:</b><br>
-    <img height="30" src="https://img.shields.io/badge/P%C3%B3s--Gradua%C3%A7%C3%A3o%20em%20Seguran%C3%A7a%20Cibern%C3%A9tica-0096D6?style=for-the-badge&logo=graduationcap&logoColor=white">
-  
 </p>
 
 <br>
@@ -87,18 +83,12 @@
 
 <br>
 
-<!--<p align="center">
-    <b>Projetos Elétricos</b><br>
-    <img height="30" src="https://img.shields.io/badge/KiCad-314477?style=for-the-badge&logo=kicad&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/Mentor%20PADS%209.5-0075A8?style=for-the-badge&logoColor=white">
-    <img height="30" src="https://img.shields.io/badge/PADS%20VX.2.8-005495?style=for-the-badge&logoColor=white">
-</p>
-
 ---
 
 <!-- Estatísticas -->
 ### 📈 GitHub Stats
 
+<p align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -115,6 +105,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicieriMoraes&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
