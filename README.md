@@ -122,7 +122,7 @@
 </table>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdeniltonR&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicieriMoraes&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
