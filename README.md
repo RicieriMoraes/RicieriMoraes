@@ -116,7 +116,7 @@
              width="100%" style="display:block; margin:0;" alt="Top Languages"/>
     </td>
     <td width="50%" valign="center">
-      <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="100%" alt="Gif centralizado" />
+      <img src="https://cdn.pixabay.com/animation/2025/07/27/13/23/13-23-50-402_512.gif" width="100%" alt="Gif centralizado" />
     </td>
   </tr>
 </table>
